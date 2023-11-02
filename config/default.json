@@ -1,0 +1,4 @@
+{
+    "mongoDB_URI": "mongodb+srv://amansekhon0002:Amandeep22@cluster0.0llprsr.mongodb.net/login_mern?retryWrites=true&w=majority",
+    "jwtSecret" : "secrettoken"
+}
