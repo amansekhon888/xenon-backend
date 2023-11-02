@@ -8,6 +8,7 @@
     "predeploy": "npm run dev",
     "deploy": "gh-pages -d dev",
     "server": "nodemon server",
+     "build": "webpack",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\" ",
     "test": "cross-env NODE_ENV=development jest"
